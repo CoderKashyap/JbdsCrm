@@ -56,13 +56,13 @@
                                 "label" : "Manager",
                                 "value" : "manager",
                                 "name" : "AssignRole",
-                                "apiEndpoint" : "http://localhost:4002/LeafNetServer/api/user/manager"
+                                "apiEndpoint" : "http://localhost:3000/LeafNetServer/api/user/manager"
                             }, 
                             {
                                 "label" : "Employee",
                                 "value" : "employee",
                                 "name" : "AssignRole",
-                                "apiEndpoint" : "http://localhost:4002/LeafNetServer/api/user/employee"
+                                "apiEndpoint" : "http://localhost:3000/LeafNetServer/api/user/employee"
                             }
                         ]
                     }, 
@@ -70,7 +70,7 @@
                         "name" : "AssignPerson",
                         "label" : "Person To Assign",
                         "type" : "select",
-                        "apiEndpoint" : "http://localhost:4002/LeafNetServer/api/user/employee",
+                        "apiEndpoint" : "http://localhost:3000/LeafNetServer/api/user/employee",
                         "required" : true
                     }, 
                     {
@@ -114,13 +114,13 @@
                                 "label" : "Manager",
                                 "value" : "manager",
                                 "name" : "AssignRole",
-                                "apiEndpoint" : "http://localhost:4002/LeafNetServer/api/user/manager"
+                                "apiEndpoint" : "http://localhost:3000/LeafNetServer/api/user/manager"
                             }, 
                             {
                                 "label" : "Employee",
                                 "value" : "employee",
                                 "name" : "AssignRole",
-                                "apiEndpoint" : "http://localhost:4002/LeafNetServer/api/user/employee"
+                                "apiEndpoint" : "http://localhost:3000/LeafNetServer/api/user/employee"
                             }
                         ]
                     }, 
@@ -131,7 +131,7 @@
                         ],
                         "label" : "Assign To Person",
                         "type" : "select",
-                        "apiEndpoint" : "http://localhost:4002/LeafNetServer/api/user",
+                        "apiEndpoint" : "http://localhost:3000/LeafNetServer/api/user",
                         "required" : true
                     }
                 ],
