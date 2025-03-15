@@ -26,7 +26,7 @@ function setJwt() {
 
 
 const axiosInstance = axios.create({
-    baseURL: `http://jbdspower.in/LeafNetServer/api/`,
+    baseURL: `https://jbdspower.in/LeafNetServer/api/`,
 });
 
 axiosInstance.interceptors.request.use((config) => {

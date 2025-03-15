@@ -56,13 +56,13 @@
                                 "label" : "Manager",
                                 "value" : "manager",
                                 "name" : "AssignRole",
-                                "apiEndpoint" : "http://jbdspower.in/LeafNetServer/api/user/manager"
+                                "apiEndpoint" : "https://jbdspower.in/LeafNetServer/api/user/manager"
                             }, 
                             {
                                 "label" : "Employee",
                                 "value" : "employee",
                                 "name" : "AssignRole",
-                                "apiEndpoint" : "http://jbdspower.in/LeafNetServer/api/user/employee"
+                                "apiEndpoint" : "https://jbdspower.in/LeafNetServer/api/user/employee"
                             }
                         ]
                     }, 
@@ -70,7 +70,7 @@
                         "name" : "AssignPerson",
                         "label" : "Person To Assign",
                         "type" : "select",
-                        "apiEndpoint" : "http://jbdspower.in/LeafNetServer/api/user/employee",
+                        "apiEndpoint" : "https://jbdspower.in/LeafNetServer/api/user/employee",
                         "required" : true
                     }, 
                     {
@@ -114,13 +114,13 @@
                                 "label" : "Manager",
                                 "value" : "manager",
                                 "name" : "AssignRole",
-                                "apiEndpoint" : "http://jbdspower.in/LeafNetServer/api/user/manager"
+                                "apiEndpoint" : "https://jbdspower.in/LeafNetServer/api/user/manager"
                             }, 
                             {
                                 "label" : "Employee",
                                 "value" : "employee",
                                 "name" : "AssignRole",
-                                "apiEndpoint" : "http://jbdspower.in/LeafNetServer/api/user/employee"
+                                "apiEndpoint" : "https://jbdspower.in/LeafNetServer/api/user/employee"
                             }
                         ]
                     }, 
@@ -131,7 +131,7 @@
                         ],
                         "label" : "Assign To Person",
                         "type" : "select",
-                        "apiEndpoint" : "http://jbdspower.in/LeafNetServer/api/user",
+                        "apiEndpoint" : "https://jbdspower.in/LeafNetServer/api/user",
                         "required" : true
                     }
                 ],

@@ -38,7 +38,7 @@ export function login(email, password) {
     return axios.post(
         // config.api+"login",
     //    `https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyD3RPAp3nuETDn9OQimqn_YF6zdzqWITII`,
-         `http://jbdspower.in/LeafNetServer/api/login`,
+         `https://jbdspower.in/LeafNetServer/api/login`,
         postData,
     );
 }
