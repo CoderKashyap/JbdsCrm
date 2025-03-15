@@ -1,4 +1,4 @@
 {
-    "api":"http://localhost:3000/LeafNetServer/api/",
-    "fileUrl":"http://localhost:3000/uploads/"
+    "api":"http://jbdspower.in/LeafNetServer/api/",
+    "fileUrl":"http://jbdspower.in/uploads/"
 }
